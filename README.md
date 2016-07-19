@@ -1,4 +1,4 @@
-# bluecampany
+# bluecompany
 Entrevista
 
 Edgardo Andres Quintanilla Muñoz
@@ -8,3 +8,4 @@ No logre hacer el calculo, por problemas con el formato fecha
 
 Link http://localhost/bluecampany/web/calculo/
 Existe 2 entidades Calculos y Feriados
+Las Fechas se guardan en mysql
